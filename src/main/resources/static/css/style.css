@@ -1,0 +1,22 @@
+.words_table
+{
+  width:70%; 
+  margin-left:15%; 
+  margin-right:15%;
+}
+
+.page
+{
+  width:70%; 
+  margin-left:15%; 
+  margin-right:15%;
+}
+
+.font_parameters
+{
+	margin-left: 0px;
+	padding-left: 0px;
+	text-align: left;
+	font-size: 40px;
+	font-weight: bold;
+}
