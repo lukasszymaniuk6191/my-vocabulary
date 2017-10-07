@@ -6,6 +6,6 @@
 Można je dodawać, modyfikować, usuwać.
 
 **Wykorzystane technologie:**
--Java - Spring
+-Java - Spring <br>
 -JavaScript - Angular
 -HTML/CSS
