@@ -1,10 +1,11 @@
 # my-vocabulary
-Restowa aplikacja
 
-Słownik do przechowywania. Są trzy podstrony w których umieszczamy słówka z pod względem trudności. 
+**Projekt:** Restowa aplikacja
+
+**Opis projektu:** Słownik do przechowywania słówek. Są trzy podstrony w których umieszczamy słówka z pod względem trudności. 
 Można je dodawać, modyfikować, usuwać.
 
-Wykorzystane technologie:
+**Wykorzystane technologie:**
 -Java - Spring
 -JavaScript - Angular
 -HTML/CSS
